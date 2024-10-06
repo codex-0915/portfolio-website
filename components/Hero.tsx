@@ -33,7 +33,8 @@ const Hero = () => {
             words="Turning Challenges into Code: Crafting Solutions That Drive Success"
           />
           <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
-            Hi, I&apos;m Kyl, a Software Engineer based in the Philippines.
+            Hi, I&apos;m Kyl Justin, a Software Engineer based in the
+            Philippines.
           </p>
 
           <a href="#about">

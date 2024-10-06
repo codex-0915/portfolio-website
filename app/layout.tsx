@@ -19,8 +19,8 @@ import { ThemeProvider } from "next-themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Kyl's Portfolio",
-  description: "Modern & Minimalist Portfolio",
+  title: "Kyl Justin Perez",
+  description: "Modern & Minimalist Dev Portfolio",
 };
 
 export default function RootLayout({
